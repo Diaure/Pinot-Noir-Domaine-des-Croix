@@ -22,10 +22,10 @@ Présenter les résultats sous une forme compréhensible et accessible.
 
 Le projet repose sur deux jeux de données :
 
-* **Dataset principal** : **130 000** bouteilles de vin avec cépages, pays, régions, millésimes, notes d'œnologues, descriptifs et prix moyens en dollars. [Lien du dataset]()
+* **Dataset principal** : **130 000** bouteilles de vin avec cépages, pays, régions, millésimes, notes d'œnologues, descriptifs et prix moyens en dollars. [Lien du dataset](https://github.com/WildCodeSchool/wilddata/raw/main/wine.zip)
 
 * **Dataset spécifique** : Vin du Domaine des Croix à analyser.<br>
-[Lien du dataset]()<br>
+[Lien du dataset](https://raw.githubusercontent.com/WildCodeSchool/wilddata/main/domaine_des_croix.csv)<br>
 
 # 5. Méthodologie et outils
 
@@ -65,8 +65,10 @@ Une **modélisation prédictive** a été réalisée pour estimer le ***prix opt
 
 Le modèle a prédit un **prix optimal de 93,50$**, ce qui positionne le vin dans la gamme d’entrée de marché (**75$ - 150$**).<br>
 
-Cette prédiction est mise en perspective avec les tendances du marché et les stratégies concurrentielles, permettant au Domaine des Croix d'ajuster son prix en fonction de son objectif de positionnement.
+Cette prédiction est mise en perspective avec les tendances du marché et les stratégies concurrentielles, permettant au Domaine des Croix d'ajuster son prix en fonction de son objectif de positionnement.<br>
 
+[Présentation complète des résultats]()<br>
+[Dashboard]()<br>
 
 
 # 8. Conclusion
