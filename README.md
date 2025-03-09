@@ -10,13 +10,13 @@ Comment fixer un prix compétitif pour les vins du Domaine des Croix sur le marc
 
 # 3. Objectifs
 
-Analyser le marché du vin aux États-Unis.
+* Analyser le marché du vin aux États-Unis.
 
-Comparer les vins du Domaine des Croix avec leurs concurrents.
+* Comparer les vins du Domaine des Croix avec leurs concurrents.
 
-Déterminer une stratégie de prix alignée sur le positionnement souhaité.
+* Déterminer une stratégie de prix alignée sur le positionnement souhaité.
 
-Présenter les résultats sous une forme compréhensible et accessible.
+* Présenter les résultats sous une forme compréhensible et accessible.
 
 # 4. Jeux de données
 
@@ -43,7 +43,7 @@ L’analyse du marché se fera à travers plusieurs étapes :
 
 * **Présentation des résultats** : Création d’un tableau de bord interactif et accessible, illustrant les analyses et recommandations.<br>
 
-Les outils utilisés pour cette analyse inclueront des bibliothèques de visualisation de données comme Seaborn et Plotly, ainsi que des solutions de BI comme Power BI.<br>
+Les outils utilisés pour cette analyse inclueront des bibliothèques de visualisation de données comme Seaborn et Plotly, ainsi que des solutions de BI comme Power BI. Vous trouverez le fichiers ayant servi à l'exploration et le traitement des données [ici]().<br>
 
 # 6. Livrables attendus
 
