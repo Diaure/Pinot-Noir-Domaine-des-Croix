@@ -43,7 +43,9 @@ L’analyse du marché se fera à travers plusieurs étapes :
 
 * **Présentation des résultats** : Création d’un tableau de bord interactif et accessible, illustrant les analyses et recommandations.<br>
 
-Les outils utilisés pour cette analyse inclueront des bibliothèques de visualisation de données comme Seaborn et Plotly, ainsi que des solutions de BI comme Power BI. Vous trouverez le fichiers ayant servi à l'exploration et le traitement des données [ici]().<br>
+Les outils utilisés pour cette analyse inclueront des bibliothèques de visualisation de données comme Seaborn et Plotly, ainsi que des solutions de BI comme Power BI. <br>
+
+Vous trouverez le fichier ayant servi à l'exploration et le traitement des données [ici](https://github.com/Diaure/Pinot-Noir-Domaine-des-Croix/blob/main/Notebook/Nettoyage_de_donn%C3%A9es.ipynb).<br>
 
 # 6. Livrables attendus
 
