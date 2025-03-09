@@ -49,12 +49,13 @@ Les outils utilisés pour cette analyse inclueront des bibliothèques de visuali
 
 * Une présentation claire et vulgarisée pour expliquer la démarche et les résultats au client non expert en data.
 
-* Un tableau de bord interactif<br>
-![picture](https://github.com/Diaure/Pinot-Noir-Domaine-des-Croix/blob/main/picture1.PNG)<br>
+* Un tableau de bord interactif
 
-![picture](https://github.com/Diaure/Pinot-Noir-Domaine-des-Croix/blob/main/picture2.PNG)<br>
+![xxx](images/picture1.PNG)<br>
 
-![picture](https://github.com/Diaure/Pinot-Noir-Domaine-des-Croix/blob/main/picture3.PNG)
+![picture](images/picture2.PNG)<br>
+
+![picture](images/picture3.PNG)
 
 # 7. Stratégie de Prix et Prédiction
 
@@ -73,7 +74,7 @@ Le modèle a prédit un **prix optimal de 93,50$**, ce qui positionne le vin dan
 Cette prédiction est mise en perspective avec les tendances du marché et les stratégies concurrentielles, permettant au Domaine des Croix d'ajuster son prix en fonction de son objectif de positionnement.<br>
 
 [Présentation complète des résultats](https://docs.google.com/presentation/d/1dYb7lT9FxvQj0Ay8Qtd2zGZXRJKUP7-t/edit?usp=sharing&ouid=117204650817277658970&rtpof=true&sd=true)<br>
-[Dashboard]()<br>
+[Dashboard](https://github.com/Diaure/Pinot-Noir-Domaine-des-Croix/blob/main/Dashboards/Strat%C3%A9gie_prix_Domaine-des-Croix_.pbix)<br>
 
 
 # 8. Conclusion
