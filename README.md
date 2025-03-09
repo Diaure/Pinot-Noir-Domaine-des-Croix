@@ -37,9 +37,9 @@ L’analyse du marché se fera à travers plusieurs étapes :
 
 * **Analyse comparative** : Étude détaillée des vins concurrents, en affinant l’analyse des vins français, bourguignons et Pinot Noir.<br>
 
-* **Proposition de valeur** : 
-    * ***Recommandation d’une fourchette de prix*** en fonction du positionnement souhaité (entrée de gamme, premium, etc.).<br>
-    * ***Prédiction d'un prix optimal*** en fonction des caractéristiques les plus pertinents.
+* **Recommandation de prix** : 
+    * ***Une fourchette de prix*** en fonction du positionnement souhaité (entrée de gamme, premium, etc.).<br>
+    * ***Prédiction d'un prix optimal*** d'entrée sur le marché en fonction des caractéristiques les plus pertinentes.
 
 * **Présentation des résultats** : Création d’un tableau de bord interactif et accessible, illustrant les analyses et recommandations.<br>
 
