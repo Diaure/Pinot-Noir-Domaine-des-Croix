@@ -50,11 +50,11 @@ Les outils utilisés pour cette analyse inclueront des bibliothèques de visuali
 * Une présentation claire et vulgarisée pour expliquer la démarche et les résultats au client non expert en data.
 
 * Un tableau de bord interactif<br>
-![picture]()<br>
+![picture](https://github.com/Diaure/Pinot-Noir-Domaine-des-Croix/blob/main/picture1.PNG)<br>
 
-![picture]()<br>
+![picture](https://github.com/Diaure/Pinot-Noir-Domaine-des-Croix/blob/main/picture2.PNG)<br>
 
-![picture]()
+![picture](https://github.com/Diaure/Pinot-Noir-Domaine-des-Croix/blob/main/picture3.PNG)
 
 # 7. Stratégie de Prix et Prédiction
 
