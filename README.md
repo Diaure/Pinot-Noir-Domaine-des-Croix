@@ -69,7 +69,7 @@ Afin d’optimiser le positionnement du Domaine des Croix sur le marché améric
 
 Une **modélisation prédictive** a été réalisée pour estimer le ***prix optimal*** du vin du Domaine des Croix en fonction des caractéristiques du marché (cépage, millésime, notes des œnologues, etc.).<br>
 
-Le modèle a prédit un **prix optimal de 93,50$**, ce qui positionne le vin dans la gamme d’entrée de marché (**75$ - 150$**).<br>
+Le modèle nous a permis de prédire un **prix optimal de 98,84$**, ce qui positionne le vin dans la gamme d’entrée de marché (**75$ - 150$**). Ce prix représenterait une stratégie prix d'entrée sur le marché américain et évolutive selon le besoin du client.<br>
 
 Cette prédiction est mise en perspective avec les tendances du marché et les stratégies concurrentielles, permettant au Domaine des Croix d'ajuster son prix en fonction de son objectif de positionnement.<br>
 
