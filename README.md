@@ -75,7 +75,7 @@ Le modèle nous a permis de prédire un **prix optimal de 98,84$**, ce qui posit
 
 Cette prédiction est mise en perspective avec les tendances du marché et les stratégies concurrentielles, permettant au Domaine des Croix d'ajuster son prix en fonction de son objectif de positionnement.<br>
 
-[Présentation complète des résultats](https://docs.google.com/presentation/d/1dYb7lT9FxvQj0Ay8Qtd2zGZXRJKUP7-t/edit?usp=sharing&ouid=117204650817277658970&rtpof=true&sd=true)<br>
+[Présentation complète des résultats](https://docs.google.com/presentation/d/1Vlu_tAyjBUtVtHV73BbSmg_8NIhUDXFNPKFJJjmBGow/edit?usp=sharing)<br>
 [Dashboard](https://github.com/Diaure/Pinot-Noir-Domaine-des-Croix/blob/main/Dashboards/Strat%C3%A9gie_prix_Domaine-des-Croix_.pbix)<br>
 
 
