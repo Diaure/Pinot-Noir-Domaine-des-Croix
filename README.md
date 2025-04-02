@@ -53,11 +53,11 @@ Vous trouverez le fichier ayant servi à l'exploration et le traitement des donn
 
 * Un tableau de bord interactif
 
-![xxx](images/picture1.PNG)<br>
+![xxx](images/pic1.PNG)<br>
 
-![picture](images/picture2.PNG)<br>
+![picture](images/pic2.PNG)<br>
 
-![picture](images/picture3.PNG)
+![picture](images/pic3.PNG)
 
 # 7. Stratégie de Prix et Prédiction
 
